@@ -126,11 +126,11 @@ body {
     }
     .form {
       flex-direction: column;
-      gap: 5px;
+      gap: 10px;
       padding: 10px;
     }
     input[type="text"] {
-      width: 100%;
+      width: 95%;;
       padding: 10px;
     }
     input[type="submit"], .delete-all, button {
