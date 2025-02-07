@@ -26,8 +26,10 @@ function createTaskElement(task) {
     taskElement.className = "task";
     taskElement.dataset.id = task.id;
     taskElement.innerHTML = `
+        <div class="info">
         <input type="checkbox" ${task.completed ? 'checked' : ''}>
         <p class="${task.completed ? 'completed' : ''}">${task.title}</p>
+        </div>
         <time>${formatTimestamp(task.id)}</time>
         <button class="delete-btn">Delete</button>
     `;
