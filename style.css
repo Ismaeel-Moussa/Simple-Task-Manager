@@ -118,3 +118,29 @@ body {
     font-weight: normal !important;
     opacity: 0.5;
   }
+
+  @media(max-width: 767px) {
+    .container {
+      width: 95%;
+      padding: 10px;
+    }
+    .form {
+      flex-direction: column;
+      gap: 5px;
+      padding: 10px;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+    }
+    input[type="submit"], .delete-all, button {
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+    }
+    .task {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5px;
+    }
+  }
