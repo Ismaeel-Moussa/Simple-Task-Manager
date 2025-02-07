@@ -130,8 +130,12 @@ body {
       padding: 10px;
     }
     input[type="text"] {
-      width: 95%;;
+      width: 95%;
       padding: 10px;
+    }
+    input[type="submit"] {
+      margin-top: 10px;
+      margin-bottom: 10px;
     }
     input[type="submit"], .delete-all, button {
       width: 100%;
