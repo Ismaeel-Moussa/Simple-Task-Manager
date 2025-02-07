@@ -1,6 +1,7 @@
 # Task Manager
 
-![Project-Photo](https://github.com/user-attachments/assets/bbfd86c1-7cba-4da5-b62a-75cf8a2a8d80)
+![image](https://github.com/user-attachments/assets/5eb392f5-060f-47db-b7e5-6486d1b3426e)
+
 
 
 This project is a simple **Task Manager** application built using web technologies. It allows users to:
