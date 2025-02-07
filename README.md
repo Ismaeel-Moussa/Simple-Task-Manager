@@ -1,7 +1,6 @@
 # Task Manager
 ### Access the project : https://ismaeel-moussa.github.io/Simple-Task-Manager/
-![image](https://github.com/user-attachments/assets/5eb392f5-060f-47db-b7e5-6486d1b3426e)
-
+![image](https://github.com/user-attachments/assets/d63773d5-5c80-47fb-a4e9-353be3513660)
 
 
 This project is a simple **Task Manager** application built using web technologies. It allows users to:
